@@ -1,4 +1,4 @@
 [
-{"name":"flare.QlikView","size":1000,"imports":["flare.SAPBW"]},
-{"name":"flare.SAP_BO","size":1000,"imports":["flare.SAPBW"]}
+{"name":"flare.a.QlikView","size":1000,"imports":["flare.a.SAPBW"]},
+{"name":"flare.a.SAP_BO","size":1000,"imports":["flare.a.SAPBW"]}
 ]
