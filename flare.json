@@ -1,0 +1,23 @@
+[
+{"name":"flare.QlikView","size":1000,"imports":["flare.SAPBW"]},
+{"name":"flare.SAP BO","size":1000,"imports":["flare.SAPBW"]},
+{"name":"flare.Power BI","size":1000,"imports":["flare.SAPBW"]},
+{"name":"flare.SAP R3","size":1000,"imports":["flare.PCDIG","flare.Leituras EG","flare.GIS","flare.SGO","flare.EMS","flare.IXUS","flare.SGCC SEP","flare.Portal Externo","flare.GCOB","flare.Comercializadores","flare.ERSE","flare.AT","flare.GPMC"]},
+{"name":"flare.PCDIG","size":1000,"imports":["flare.SAP R3"]},
+{"name":"flare.Leituras EG","size":1000,"imports":["flare.SAP R3"]},
+{"name":"flare.GIS","size":1000,"imports":["flare.SAP R3","flare.SGO","flare.Site Gas"]},
+{"name":"flare.SGO","size":1000,"imports":["flare.PSVV","flare.AVE","flare.BING","flare.Site Gas","flare.EMS","flare.SMTP"]},
+{"name":"flare.IXUS","size":1000,"imports":["flare.SAP R3"]},
+{"name":"flare.Portal Externo","size":1000,"imports":["flare.SAP R3","flare.Mobilidade"]},
+{"name":"flare.Mobilidade","size":1000,"imports":["flare.Portal Externo"]},
+{"name":"flare.SGCC SEP","size":1000,"imports":["flare.SGCC GAS"]},
+{"name":"flare.SGCC GAS","size":1000,"imports":["flare.SGCC SEP","flare.GICD","flare.Bancos"]},
+{"name":"flare.GCOB","size":1000,"imports":["flare.SAP R3","flare.SGCC SEP","flare.SIBS","flare.CTT"]},
+{"name":"flare.Comercializadores","size":1000,"imports":["flare.SAP R3"]},
+{"name":"flare.SIBS","size":1000,"imports":["flare.GCOB"]},
+{"name":"flare.Lojas EDP","size":1000,"imports":["flare.SGCC SEP"]},
+{"name":"flare.CTT","size":1000,"imports":["flare.GCOB"]},
+{"name":"flare.Bancos","size":1000,"imports":["flare.SGCC GAS"]},
+{"name":"flare.GPMC","size":1000,"imports":["flare.SAP R3","flare.GPMC"]},
+{"name":"flare.GICD","size":1000,"imports":["flare.GPMC","flare.SGCC GAS"]}
+]
